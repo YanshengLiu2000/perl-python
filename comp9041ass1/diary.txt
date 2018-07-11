@@ -1,0 +1,23 @@
+25/09/17    7:30    9:22    weak up by the little dog of my roommate. Finish subset1 and a part of 2. very similar to the lab09, can use some of my previous work.
+25/09/17    1:00    3:30    finish subset 2 and try to do some subset 3. need some sports.
+25/09/17    18:07   21:00   try subset 3 and low efficiency. I should go out and have some drink.But```````````nvm
+26/09/17    7:00    8:29    weak up by dog. spend whole morning on trying to figure out how to push and pull, fail. Check piazza and little help.
+                            $ git clone gitlab@gitlab.cse.unsw.EDU.AU:z5124787/17s2-comp2041-ass1 ass1
+                            Cloning into 'ass1'...
+                            ssh: connect to host gitlab.cse.unsw.edu.au port 22: Connection timed out
+                            fatal: Could not read from remote repository.
+
+                            Please make sure you have the correct access rights
+                            and the repository exists.
+26/09/17    8:30   10:00    something wrong with the line 35 and line 69
+27/09/17    14:20   17:00   upload the ass into gitlab. still can not upload files into gitlab at home. but it works in campus.
+28/09/17    7:00    12:19   rewrite the code add a sub called TransformPolynomial. Looks much better!
+28/09/17    12:40   13:11   Complete subset 2 AGAIN! so sad~
+28/09/17    18:00   18:55   solve a bug in mutli loops
+28/09/17    18:55   19:47   there is an issue in examples/3/size.py! can not input from keyboard!#####!!!!!!
+28/09/17    19:50   21:11   bug in multi loops. Fail to solve it today.
+29/09/17    7:55    08:19   Fail to solve odd.py maybe later.
+29/09/17    08:19   08:39   Start Subset 4, finally.
+29/09/17    08:39   12:03   finish subset 4
+01/09/17    11:00   20:55   Correct mistake in GIT and recheck code again. The code may need to be rewrite`````````````print part!
+02/10/17    8:03    12:00   Debug loop and rewrite print sub

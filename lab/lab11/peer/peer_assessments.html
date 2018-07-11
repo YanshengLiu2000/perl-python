@@ -1,0 +1,17 @@
+{% extends "peer_base.html" %}
+{% block body %}
+
+{{ error }}
+<p>
+<form method="POST" action="login">
+<p>
+unknown zid - are you enrolled in COMP[29]041?
+<p>
+zid: <input name="zid" >
+<p>
+password: <input type="password" name="password" > 
+<p>
+<input type="submit" value="Login" >
+</form>
+
+{% endblock %}
